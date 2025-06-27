@@ -228,4 +228,13 @@ Just run `npm run build` and upload the `dist/` folder to your hosting service!
 ## 🛠️ Troubleshooting & Project Cleanliness
 - All dependencies and scripts are managed inside `fscs-website/`.
 - If you see duplicate `node_modules` or `package.json` files outside `fscs-website/`, you can safely delete them.
-- Only the `fscs-website/` directory should contain your app and its dependencies. 
+- Only the `fscs-website/` directory should contain your app and its dependencies.
+
+---
+
+## 🚧 Missing Information / To Be Completed
+- **Donate Now button:** Destination/payment processor details needed
+- **EIN number:** Actual EIN required for legal/tax display
+- **Phone/address:** Contact phone number and mailing address needed
+- **Contact form:** Specify the email or endpoint where messages should be sent
+- **501(c)(3) status:** Final confirmation and documentation of nonprofit registration 
